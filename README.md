@@ -1,5 +1,5 @@
 # tokyo_olympic_data
-This contains the data in csv format of Athletes, Coaches,  EntriesGender, Medals, Teams.
+This contains the data in csv format of Athletes, Coaches,  Entries, Gender, Medals, Teams.
 
 ## Details
 
